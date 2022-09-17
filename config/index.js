@@ -142,7 +142,7 @@ export const config = {
   CALLBACK_TEMPLATE_ID: "YLjN5ij4IVmBNKKclCXBbemVNyvUi58pDQ1WSkXY3no",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: ["o2gUg5un4K9V6cvFxle82Hvei7nw"]
     {
       // 一般都填自己
       name: "自己",
